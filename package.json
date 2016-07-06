@@ -1,0 +1,20 @@
+{
+  "name": "lab02-static-server",
+  "version": "1.0.0",
+  "description": "servidor web statico en node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElviraMoreno/lab02-static-server.git"
+  },
+  "author": "\"yolanda\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElviraMoreno/lab02-static-server/issues"
+  },
+  "homepage": "https://github.com/ElviraMoreno/lab02-static-server#readme"
+}
